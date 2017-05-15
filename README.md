@@ -9,7 +9,7 @@ Guide pour mettre en place son environnement
 ## Langages et plateformes:
  * Java 8 (Oracle JDK) : http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
  * Ruby : https://www.ruby-lang.org/fr/documentation/installation/
-  * Puis dans la console  : gem install redis
+  - Puis dans la console  : gem install redis
  * Python (Déjà installé sur la plupart des distro linux)
  * Scala : https://www.scala-lang.org/download/install.html
  * Node JS : https://nodejs.org/en/download/
